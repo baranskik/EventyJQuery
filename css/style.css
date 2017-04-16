@@ -1,0 +1,17 @@
+ul { margin: 0; padding: 0; }
+
+.carousel li {
+    list-style: none;
+    border-style: solid;
+    overflow: auto;
+    width: 405px;
+    height: 405px;
+    display: inline;
+    margin-left: 0;
+    margin-right: auto;
+    float: left;
+}
+.carousel ul {
+  width: 2570px;
+  height: 2570px;
+}
